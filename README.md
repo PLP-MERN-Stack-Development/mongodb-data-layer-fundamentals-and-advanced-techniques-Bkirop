@@ -206,10 +206,10 @@ This script will:
 ## 📸 Screenshots
 
 ### Collection
-![Collection](./screenshot/collection.png)
+![Collection](./screenshot/collections.png)
 
 ### Sample Data
-![Sample_Data](./screenshot/sample data.png)
+![SampleData](./screenshot/sample_data.png)
 
 ## 📄 License
 

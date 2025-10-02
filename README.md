@@ -209,7 +209,8 @@ This script will:
 ![Collection](./screenshot/collections.png)
 
 ### Sample Data
-![Sample Data](./screenshot/sampledata.png)
+![Sample Data](.//screenshot/sample data.png)
+
 
 ## 📄 License
 
